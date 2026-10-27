@@ -1,4 +1,4 @@
-namespace BrailleBase.BrailleTable
+﻿namespace BrailleBase.BrailleTable
 {
     public class BrailleTable
     {
